@@ -18,7 +18,6 @@ This repository leverages popular Python libraries and frameworks:
 - **Pandas**
 - **Scikit-learn**
 - **TensorFlow**
-- **PyTorch**
 
 ### 📖 Learning Resources
 - **Code Walkthroughs**: Detailed explanations of the implementation.
